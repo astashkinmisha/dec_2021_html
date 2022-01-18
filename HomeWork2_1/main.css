@@ -1,0 +1,47 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.firstThree{
+    background: orange;
+    width: 200px;
+    height: 200px;
+    text-align: center
+;
+
+}
+
+.secThree{
+    background: orange;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+
+
+}
+#one {
+    box-shadow: black 5px 10px  15px 2px;
+}
+
+#two{
+    box-shadow: silver 5px 10px  15px 2px;
+
+}
+
+#three{
+    box-shadow: black 5px 10px  25px 2px;
+}
+
+
+#four{
+    box-shadow: red 5px 10px  25px 2px;
+}
+
+#five{
+    box-shadow: green 5px 10px  25px 2px;
+}
+
+#six {
+    box-shadow: cornflowerblue 5px 10px  25px 2px;
+}

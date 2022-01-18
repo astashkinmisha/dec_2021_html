@@ -1,0 +1,25 @@
+.heading{
+    background: red;
+    text-align: center;
+    color: white;
+}
+.first{
+    background: silver;
+}
+
+.second{
+    background: green;
+}
+
+.firstSqr{
+    width: 200px;
+    height: 200px;
+    background: silver;
+}
+
+.secondSqr{
+    width: 200px;
+    height: 200px;
+    background: blue;
+    border-radius: 10px;
+}
