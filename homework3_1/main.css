@@ -1,0 +1,28 @@
+.main {
+    background: darkslategray;
+    width: 500px;
+    height: 450px;
+}
+
+.a {
+    background: orange;
+    width: 100%;
+    height: 25%;
+}
+.b-c {
+    display: flex;
+    width: 100%;
+    height: 100%;
+
+}
+.b {
+    background: lightsalmon;
+    width: 75%;
+    height: 100%;
+}
+
+.c {
+    background: lightgreen;
+    width: 25%;
+    height: 100%;
+}
