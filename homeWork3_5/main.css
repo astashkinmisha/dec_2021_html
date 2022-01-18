@@ -1,0 +1,63 @@
+.main {
+    background: lightcyan;
+
+}
+.first {
+    margin-top: 10px;
+    display: flex;
+    column-gap: 15px;
+    width: 80%;
+    height: 15%;
+}
+#one {
+    background: white;
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
+}
+#two {
+    background: white;
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.second {
+    display: flex;
+    column-gap: 10px;
+    width: 80%;
+    height: 15%;
+}
+#three {
+    background: white;
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
+}
+#four {
+    background: white;
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.third {
+    display: flex;
+    column-gap: 10px;
+    width: 80%;
+    height: 15%;
+}
+
+#five {
+    background: white;
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+#six {
+    background: white;
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
+}
